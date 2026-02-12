@@ -3,7 +3,8 @@
 This project is a full-stack MERN application for forming balanced student groups using smart logic and AI support.
 
 Technologies Used
-Frontend
+
+**Frontend**
 
 React.js
 
@@ -13,7 +14,7 @@ CSS3
 
 JavaScript
 
-Backend
+**Backend**
 
 Node.js
 
@@ -29,13 +30,15 @@ JWT Authentication
 
 Gemini AI API
 
+How to Run the Frontend
+1. Start Server
+   npm run dev
+   
 How to Run the Backend
 1. Install dependencies
 npm install
 
-
 2. Start the server
 npm run dev
 
-Server runs at:
-👉 http://localhost:5000
+Server runs....
